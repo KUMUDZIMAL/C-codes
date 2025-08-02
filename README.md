@@ -1,6 +1,6 @@
 <h1>C Practice Repository</h1>
 
-Welcome to the C Practice Repository, a collection of C programming exercises and examples practiced and learned during <b>March–April 2023</b> in my <b>first year</b> of Computer Engineering. This repository is designed to track my progress, reinforce fundamental concepts, and serve as a reference for common C programming patterns.
+Welcome to the C Practice Repository, a collection of C programming exercises and examples practiced and learned during <b>March–April 2023</b> in my <b>First Year</b> of Computer Engineering. This repository is designed to track my progress, reinforce fundamental concepts, and serve as a reference for common C programming patterns.
 
 <h1> ✅ Topics Covered </h1>
 
